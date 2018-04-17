@@ -1,0 +1,24 @@
+body {
+    background-image: url('./../assets/images/star.gif');
+}
+
+#logo {
+    height: 32vh;
+    margin-top: 8vh;
+}
+
+.paint {
+    color: white;
+}
+
+span {
+    font-weight: bold;
+}
+
+#modal {
+    margin: 1vh;
+}
+
+.paint {
+    color: white;
+}
